@@ -1,0 +1,8 @@
+prefix=/home/robot/Desktop/catkin_ws/install
+
+Name: omni3ros_pkg
+Description: Description of omni3ros_pkg
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
